@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "ovaqrebornplus",
+  "version": "${version}",
+  "name": "OvaqRebornPlus",
+  "description": "2b2tjp Utility Mod",
+  "authors": [
+    "h_ypi"
+  ],
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "net.shoreline.client.OvaqRebornPlus"
+    ]
+  },
+  "mixins": [
+    "mixins.ovaqrebornplus.json"
+  ],
+  "accessWidener": "ovaqrebornplus.accesswidener",
+  "depends": {
+    "java": ">=21",
+    "fabricloader": ">=0.15.0",
+    "minecraft": "1.21.1",
+    "fabric-api": "*"
+  }
+}

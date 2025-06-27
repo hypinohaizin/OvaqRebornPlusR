@@ -1,0 +1,82 @@
+{
+  "gui_click": {
+    "sounds": [
+      {
+        "name": "ovaqrebornplus:gui_click",
+        "stream": false
+      }
+    ]
+  },
+
+  "twitter": {
+    "sounds": [
+      {
+        "name": "ovaqrebornplus:twitter",
+        "stream": false
+      }
+    ]
+  },
+
+  "ios": {
+    "sounds": [
+      {
+        "name": "ovaqrebornplus:ios",
+        "stream": false
+      }
+    ]
+  },
+
+  "discord": {
+    "sounds": [
+      {
+        "name": "ovaqrebornplus:discord",
+        "stream": false
+      }
+    ]
+  },
+
+  "steam": {
+    "sounds": [
+      {
+        "name": "ovaqrebornplus:steam",
+        "stream": false
+      }
+    ]
+  },
+
+  "nightxd": {
+    "sounds": [
+      {
+        "name": "ovaqrebornplus:nightxd",
+        "stream": false
+      }
+    ]
+  },
+
+  "nightxe": {
+    "sounds": [
+      {
+        "name": "ovaqrebornplus:nightxe",
+        "stream": false
+      }
+    ]
+  },
+
+  "sigmae": {
+    "sounds": [
+      {
+        "name": "ovaqrebornplus:sigmae",
+        "stream": false
+      }
+    ]
+  },
+
+  "sigumad": {
+    "sounds": [
+      {
+        "name": "ovaqrebornplus:sigumad",
+        "stream": false
+      }
+    ]
+  }
+}

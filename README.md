@@ -2,7 +2,7 @@
 ## Baritone is required.
 
 ##
-- Minecraft version **```Fabric 1.20.4```**
+- Minecraft version **```Fabric 1.21.1```**
 - Default ClickGui KeyBind **```RShift```**
 - Default Prefix **```.```**
 
